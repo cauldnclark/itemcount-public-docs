@@ -1,6 +1,6 @@
 # POS Itemcount Tour
 
-## <mark style="color:orange;">Welcome to the POS item count tour. Let's get started with a quick overview of the display.</mark>
+### <mark style="color:orange;">Welcome to the POS item count tour. Let's get started with a quick overview of the display.</mark>
 
 <figure><img src="../.gitbook/assets/POS display.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
