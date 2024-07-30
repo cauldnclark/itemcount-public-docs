@@ -3,7 +3,7 @@
 * [Itemcount User Guide](README.md)
 * [POS](pos/README.md)
   * [POS Itemcount Tour](pos/pos-itemcount-tour.md)
-  * [How to Apply Senior Discount & Set Items as Free](pos/how-to-apply-senior-discount-and-set-items-as-free.md)
+  * [How to Apply Senior Discount & Set Item as Free](pos/how-to-apply-senior-discount-and-set-item-as-free.md)
   * [How to Transact in POS](pos/how-to-transact-in-pos.md)
   * [How to Set Items as Free (Freebies)](pos/how-to-set-items-as-free-freebies.md)
   * [How to Select Sales & Payment Channels](pos/how-to-select-sales-and-payment-channels.md)
