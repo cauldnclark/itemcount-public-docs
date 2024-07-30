@@ -52,7 +52,7 @@
 
 <figure><img src="../.gitbook/assets/16-You have the option to select the payment method that they prefer..png" alt="" width="563"><figcaption></figcaption></figure>
 
-14. Transaction complete. Click 'C' to return to the POS display.
+14. Transaction complete. Click 'Complete' to return to the POS display.
 
 <figure><img src="../.gitbook/assets/18-transaction complete.png" alt="" width="563"><figcaption></figcaption></figure>
 
