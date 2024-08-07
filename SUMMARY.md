@@ -22,5 +22,6 @@
     * [Changing item details](inventory/update-item/changing-item-details.md)
     * [Uploading item image](inventory/update-item/uploading-item-image.md)
     * [Costing - Setting item cost](inventory/update-item/costing-setting-item-cost.md)
-    * [Sourcing - Setting your item default supplier](inventory/update-item/sourcing-setting-your-item-default-supplier.md)
-    * [Page 5](inventory/update-item/page-5.md)
+    * [Sourcing - Setting your item default supplier](inventory/update-item/page-4.md)
+    * [How to transfer item(s) by Branch and by Inventory Location?](inventory/update-item/how-to-transfer-item-s-by-branch-and-by-inventory-location.md)
+    * [How to Deplete items quantity?](inventory/update-item/how-to-deplete-items-quantity.md)
