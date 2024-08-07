@@ -10,43 +10,43 @@
 
 1. First, click here to view more sales channels.
 
-<figure><img src="broken-reference" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/First, click here to view more sales channels..jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 2. Scroll down and select the sales channel you intend to use.
 
-<figure><img src="broken-reference" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Scroll down and select the sales channel you intend to use.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 3. Next, click this button to search for an item.
 
-<figure><img src="broken-reference" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Next, click this button to search for an item..jpg" alt=""><figcaption></figcaption></figure>
 
 4. Type the name of the product you want to search for.
 
-<figure><img src="broken-reference" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Type the name of the product you want to search for..jpg" alt=""><figcaption></figcaption></figure>
 
 5. Click 'Create new product' to quickly set up items for sale.
 
-<figure><img src="broken-reference" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Click &#x27;Create new product&#x27; to quickly set up items for sale..jpg" alt=""><figcaption></figcaption></figure>
 
 6. Click this button to display photos in products.
 
-<figure><img src="broken-reference" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Click this button to display photos in products..jpg" alt=""><figcaption></figcaption></figure>
 
 7. Switch to list view by clicking here.
 
-<figure><img src="broken-reference" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Switch to list view by clicking here..jpg" alt=""><figcaption></figcaption></figure>
 
 8. Refresh the page by clicking this button.
 
-<figure><img src="broken-reference" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Refresh the page by clicking this button..jpg" alt=""><figcaption></figcaption></figure>
 
 9. Check the item details here.
 
-<figure><img src="broken-reference" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Check the item details here.Switch to list view by clicking here..jpg" alt=""><figcaption></figcaption></figure>
 
 10. Finally, view your cart display here.
 
-<figure><img src="broken-reference" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Finally, view your cart display here..png" alt=""><figcaption></figcaption></figure>
 
 
 
