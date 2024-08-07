@@ -22,3 +22,7 @@
     * [How to transfer item(s) by Branch and by Inventory Location?](inventory/update-item/how-to-transfer-item-s-by-branch-and-by-inventory-location.md)
     * [How to Deplete items quantity?](inventory/update-item/how-to-deplete-items-quantity.md)
     * [Adding Stock / Receiving Lot Item](inventory/update-item/adding-stock-receiving-lot-item.md)
+  * [Inventory Location](inventory/inventory-location/README.md)
+    * [How to add stocks in a large number of existing items in an inventory location and branches?](inventory/inventory-location/how-to-add-stocks-in-a-large-number-of-existing-items-in-an-inventory-location-and-branches.md)
+    * [Page 2](inventory/inventory-location/page-2.md)
+  * [User](inventory/user.md)
