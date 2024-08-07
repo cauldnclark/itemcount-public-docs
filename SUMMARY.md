@@ -25,3 +25,4 @@
     * [Sourcing - Setting your item default supplier](inventory/update-item/page-4.md)
     * [How to transfer item(s) by Branch and by Inventory Location?](inventory/update-item/how-to-transfer-item-s-by-branch-and-by-inventory-location.md)
     * [How to Deplete items quantity?](inventory/update-item/how-to-deplete-items-quantity.md)
+    * [Adding Stock / Receiving Lot Item](inventory/update-item/adding-stock-receiving-lot-item.md)
