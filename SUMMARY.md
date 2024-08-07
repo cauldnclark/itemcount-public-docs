@@ -22,5 +22,5 @@
     * [Changing item details](inventory/update-item/changing-item-details.md)
     * [Uploading item image](inventory/update-item/uploading-item-image.md)
     * [Costing - Setting item cost](inventory/update-item/costing-setting-item-cost.md)
-    * [Page 4](inventory/update-item/page-4.md)
+    * [Sourcing - Setting your item default supplier](inventory/update-item/sourcing-setting-your-item-default-supplier.md)
     * [Page 5](inventory/update-item/page-5.md)
