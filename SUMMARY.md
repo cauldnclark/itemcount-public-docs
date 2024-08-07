@@ -17,4 +17,5 @@
     * [Creating New Items, Importing from CSV, Setting up with AI, and Cloning.](inventory/item/creating-new-items-importing-from-csv-setting-up-with-ai-and-cloning..md)
     * [How to Make a CSV File and Upload It to Itemcount Using Import CSV](inventory/item/how-to-make-a-csv-file-and-upload-it-to-itemcount-using-import-csv.md)
     * [How to Make a CSV File and Upload It to Itemcount Using Import CSV](inventory/item/how-to-make-a-csv-file-and-upload-it-to-itemcount-using-import-csv-1.md)
-  * [Update Item](inventory/update-item.md)
+  * [Update Item](inventory/update-item/README.md)
+    * [Page tour of inventory items General item data](inventory/update-item/page-tour-of-inventory-items-general-item-data.md)
