@@ -12,12 +12,12 @@ description: >-
 ### **Deplete item stocks**
 
 1. Click on Inventory
-2. **This is the inventory item page.**
+2. This is the inventory item page.
 3. Select the item you want to deplete.
-4. **This is the item details page.**
+4. This is the item details page.
 5. Choose the stocks by lot items that correspond to the location or branch you would like to deplete.
-6. **Click on Deplete**
-7. **Enter the quantity that needs to be removed from the stock of lot items.**
-8. **Click on Submit**
+6. Click on Deplete
+7. Enter the quantity that needs to be removed from the stock of lot items.
+8. Click on Submit
 9. Item successfully depleted
-10. **As you can see, the stocks of chosen lot items have already been depleted, and there is also a history record on the right side.**
+10. As you can see, the stocks of chosen lot items have already been depleted, and there is also a history record on the right side.
