@@ -19,3 +19,8 @@
     * [How to Make a CSV File and Upload It to Itemcount Using Import CSV](inventory/item/how-to-make-a-csv-file-and-upload-it-to-itemcount-using-import-csv-1.md)
   * [Update Item](inventory/update-item/README.md)
     * [Page tour of inventory items General item data](inventory/update-item/page-tour-of-inventory-items-general-item-data.md)
+    * [Changing item details](inventory/update-item/changing-item-details.md)
+    * [Page 2](inventory/update-item/page-2.md)
+    * [Page 3](inventory/update-item/page-3.md)
+    * [Page 4](inventory/update-item/page-4.md)
+    * [Page 5](inventory/update-item/page-5.md)
