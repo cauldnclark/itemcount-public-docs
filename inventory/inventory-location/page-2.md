@@ -47,29 +47,24 @@ EXTERNAL TRANSFER
 
 <figure><img src="../../.gitbook/assets/This is the table page for the Internal transfer. You only need to pick an inventory location or branch and the exact location of the inventory or branch to which you want to transfer it..png" alt="" width="563"><figcaption></figcaption></figure>
 
-\
-10\. Click on Inventory location.&#x20;
+10. Click on Inventory location.
 
 <figure><img src="../../.gitbook/assets/Click on Inventory location..png" alt="" width="563"><figcaption></figcaption></figure>
 
-\
-11\. Choose the specific location to which you want to transfer your selected items.
+11. Choose the specific location to which you want to transfer your selected items.
 
 <figure><img src="../../.gitbook/assets/Choose the specific location to which you want to transfer your selected items..png" alt="" width="563"><figcaption></figcaption></figure>
 
-\
-12\. Click on Receiving.
+12. Click on Receiving.
 
 <figure><img src="../../.gitbook/assets/Click on Receiving.png" alt="" width="563"><figcaption></figcaption></figure>
 
-\
-13\. After adjusting all in the table, click submit to save the update.
+13. After adjusting all in the table, click submit to save the update.
 
 <figure><img src="../../.gitbook/assets/After adjusting all in the table, click submit to save the update..png" alt="" width="563"><figcaption></figcaption></figure>
 
-\
-14\. Item transfer successfully created.\
-Items with a quantity have already been sent to the designated location.
+14. Item transfer successfully created.\
+    Items with a quantity have already been sent to the designated location.
 
 <figure><img src="../../.gitbook/assets/Item transfer successfully created..png" alt="" width="563"><figcaption></figcaption></figure>
 
