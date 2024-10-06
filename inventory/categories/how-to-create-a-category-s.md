@@ -28,10 +28,7 @@
 
 ## <mark style="color:orange;">CSV Import</mark>
 
-
-
-7\. Click on CSV Import\
-
+7. Click on CSV Import
 
 <figure><img src="../../.gitbook/assets/Click on CSV Import.png" alt="" width="563"><figcaption></figcaption></figure>
 
