@@ -8,7 +8,7 @@
 
 2. Click on New
 
-<figure><img src="../../.gitbook/assets/Click on New.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Click on New (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 3. Type Category name
 
