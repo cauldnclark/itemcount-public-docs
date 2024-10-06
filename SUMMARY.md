@@ -26,5 +26,5 @@
     * [Adding Stock / Receiving Lot Item](inventory/update-item/adding-stock-receiving-lot-item.md)
   * [Inventory Location](inventory/inventory-location/README.md)
     * [How to add stocks in a large number of existing items in an inventory location and branches?](inventory/inventory-location/how-to-add-stocks-in-a-large-number-of-existing-items-in-an-inventory-location-and-branches.md)
-    * [How to use External/Internal Item transfer in location, branch and groups?](inventory/inventory-location/how-to-use-external-internal-item-transfer-in-location-branch-and-groups.md)
+    * [How to use External/Internal Item transfer in location, branch, and groups?](inventory/inventory-location/page-2.md)
   * [User](inventory/user.md)
