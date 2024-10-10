@@ -1,11 +1,6 @@
 # Itemcount User Guide
 
-![alt text](src/images/logo-itm.png)
-
-## Table of Contents
-
-* [About](./#-about)
-* [Contacts](./#️-contacts)
+![](src/images/logo-itm.png)
 
 ## 🚀 About
 
@@ -22,4 +17,3 @@ For more details about Itemcount, feel free to reach out to us. We are here to p
 
 We look forward to assisting you and ensuring your experience with Itemcount is successful and enjoyable!
 
-[Back to top](./#top)

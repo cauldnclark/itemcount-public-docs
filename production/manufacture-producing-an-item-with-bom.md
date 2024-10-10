@@ -1,9 +1,6 @@
 # Manufacture / Producing an Item with BOM
 
-1.As you can see here, the item have BOM.
-
-
-
+1. As you can see here, the item have BOM.
 2. Click on …
 
 <figure><img src="../.gitbook/assets/2.Click on ….png" alt="" width="563"><figcaption></figcaption></figure>
