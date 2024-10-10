@@ -52,7 +52,7 @@
 
 13. Click on Submit
 
-<figure><img src="../../.gitbook/assets/Click on Submit.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Click on Submit (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 14. As you can see here, the lot item was created and received 100 unit of items.
 
