@@ -2,7 +2,7 @@
 
 1. Click on Transactions
 
-<figure><img src="../.gitbook/assets/Click on Transactions.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Click on Transactions (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 2. Click on dropdown trigger
 
