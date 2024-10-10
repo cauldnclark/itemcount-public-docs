@@ -58,7 +58,7 @@
 
 15. Click on Submit&#x20;
 
-<figure><img src="../.gitbook/assets/15.Click on Submit.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/15.Click on Submit (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 16. Click on dropdown trigger&#x20;
 

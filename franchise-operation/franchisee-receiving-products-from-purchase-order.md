@@ -2,7 +2,7 @@
 
 1. Click on …
 
-<figure><img src="../.gitbook/assets/1.Click on ….png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1.Click on … (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 2. Click on Sourcing
 
@@ -58,7 +58,7 @@
 
 15. Click on Submit
 
-<figure><img src="../.gitbook/assets/15.Click on Submit (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/15.Click on Submit (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 16. Click on Inventory
 
