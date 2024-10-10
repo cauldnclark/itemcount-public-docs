@@ -54,7 +54,7 @@
 
 14. Click on Submit
 
-<figure><img src="../.gitbook/assets/14.Click on Submit.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/14.Click on Submit (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 15. Click on Submit
 
