@@ -9,7 +9,7 @@ description: >-
 
 1. Click on Inventory locations
 
-<figure><img src="../../.gitbook/assets/Click on Inventory locations.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Click on Inventory locations (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 2. This is a list of all of my inventory locations.
 
