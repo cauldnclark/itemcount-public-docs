@@ -16,7 +16,7 @@
 
 4. Click on Submit
 
-<figure><img src="../../.gitbook/assets/Click on Submit.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Click on Submit (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 5. Click on alert
 
@@ -24,7 +24,7 @@
 
 6. Click on dropdown trigger
 
-<figure><img src="../../.gitbook/assets/Click on dropdown trigger.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Click on dropdown trigger (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">CSV Import</mark>
 
