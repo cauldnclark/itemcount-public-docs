@@ -25,3 +25,10 @@
 6. Updated items list view
 
 <figure><img src="../../.gitbook/assets/Updated items list view.png" alt="" width="563"><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+[Video record: https://www.loom.com/share/426411e6e4604661a5a6a22f9e705963?sid=fc1c3373-543d-41be-a084-045c953d0cae](https://www.loom.com/share/426411e6e4604661a5a6a22f9e705963?sid=fc1c3373-543d-41be-a084-045c953d0cae)
+{% endhint %}
+
+{% embed url="https://www.loom.com/share/426411e6e4604661a5a6a22f9e705963?sid=fc1c3373-543d-41be-a084-045c953d0cae" %}
+
